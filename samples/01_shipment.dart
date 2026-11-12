@@ -8,7 +8,7 @@ void main() {
   List<String> statuses = ["In Transit", "Processing", "Delivered", "Processing", "Delivered"];
   List<double> weights = [5.5, 12.0, 2.5, 8.2, 14.5];
 
-  bool running = true;
+  bool running = true; //TRUEEEE
 
   print(ShipmentConfig.welcomeMsg);
 
