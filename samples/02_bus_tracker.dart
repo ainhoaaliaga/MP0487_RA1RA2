@@ -5,7 +5,7 @@ void main() {
   // Parallel lists mapping Bus Routes to specific Stops and minutes remaining (ETA)
   List<String> busNumbers = ["Line 42", "Line 101", "Line 42", "Line 78", "Line 101"];
   List<String> stopNames = ["Downtown", "Central Station", "West Suburbs", "Downtown", "Downtown"];
-  List<int> arrivalTimes = [15, 8, 22, 5, 12]; // ETA in minutes
+  List<int> arrivalTimes = [15, 8, 22, 5, 1]; // ETA in minutes
 
   bool active = true;
 
