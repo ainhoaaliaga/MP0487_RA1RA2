@@ -137,7 +137,7 @@ void main() {
         }
         break;
       
-      // El calculo
+      // LA CALCULATION
       case "6":
         if (arrivalTimes.isEmpty) {
           print("No active buses available to calculate the average.");
